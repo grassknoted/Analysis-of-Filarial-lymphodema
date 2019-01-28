@@ -6,11 +6,11 @@ Lymphatic filariasis, also known as elephantiasis, is a human disease caused by 
 
 The following are a few examples of the trials we performed:
 
-* Example 1: ![EffectOfDiseases](https://i.ibb.co/gRdQBdZ/Graph1.png)
+![EffectOfDiseases](https://i.ibb.co/gRdQBdZ/Graph1.png)
 
-* Example 2: ![ComparisonOfOintments](https://i.ibb.co/gZ7cPDS/Ointments.png)
+![ComparisonOfOintments](https://i.ibb.co/gZ7cPDS/Ointments.png)
 
-* Example 3: ![AgeWiseComparison](https://i.ibb.co/284cxD8/Graph2.png)
+![AgeWiseComparison](https://i.ibb.co/284cxD8/Graph2.png)
 
 ## Objective 
 
