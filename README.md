@@ -1,9 +1,14 @@
 # Analysis-of-Filarial-lymphodema
 
-## Introduction
+## Introduction and Examples
 
 Lymphatic filariasis, also known as elephantiasis, is a human disease caused by parasitic worms known as filarial worms. Most cases of the disease have no symptoms. Some people, however, develop a syndrome called elephantiasis, which is marked by severe swelling in the arms, legs, breasts, or genitals. The skin may become thicker as well, and the condition may become painful. The changes to the body may harm the affected person's social and economic situation.
 
+* Example 1: ![EffectOfDiseases](https://pasteboard.co/HYx80oS.png)
+
+* Example 2: ![ComparisonOfOintments](https://pasteboard.co/HYx8dZN.png)
+
+* Example 3: ![AgeWiseComparison](https://pasteboard.co/HYx7A3N.png)
 
 ## Objective 
 
